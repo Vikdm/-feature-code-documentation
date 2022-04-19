@@ -17,10 +17,9 @@
 
 Ниже пример кода из нашего приложения:
 
-
-@@ -25,3 +27,4 @@
+''' css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
 '''
-
-
